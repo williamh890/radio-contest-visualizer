@@ -1,0 +1,6260 @@
+[
+  {
+    "frequency": "28540",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2103",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0001",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K1ZO",
+      "serial_number": "0005",
+      "presidence": "U",
+      "check": "91",
+      "section": "NH"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2106",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0002",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N7SG",
+      "serial_number": "0003",
+      "presidence": "A",
+      "check": "97",
+      "section": "OR"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2107",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0003",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W3PP",
+      "serial_number": "0005",
+      "presidence": "A",
+      "check": "10",
+      "section": "DE"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2107",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0004",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W1OP",
+      "serial_number": "0002",
+      "presidence": "A",
+      "check": "19",
+      "section": "RI"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2108",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0005",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K4BNC",
+      "serial_number": "0004",
+      "presidence": "B",
+      "check": "58",
+      "section": "NNJ"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2110",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0006",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WA0DGW",
+      "serial_number": "0001",
+      "presidence": "B",
+      "check": "62",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2110",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0007",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KB3CWQ",
+      "serial_number": "0004",
+      "presidence": "A",
+      "check": "08",
+      "section": "MDC"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2111",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0008",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W0PAN",
+      "serial_number": "0003",
+      "presidence": "A",
+      "check": "53",
+      "section": "AZ"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2112",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0009",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K9KMD",
+      "serial_number": "0001",
+      "presidence": "A",
+      "check": "75",
+      "section": "IL"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2112",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0010",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "ND0C",
+      "serial_number": "0012",
+      "presidence": "Q",
+      "check": "68",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2113",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0011",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K0PC",
+      "serial_number": "0009",
+      "presidence": "U",
+      "check": "69",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2114",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0012",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KB3WEY",
+      "serial_number": "0002",
+      "presidence": "A",
+      "check": "02",
+      "section": "MDC"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2115",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0013",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N8NTG",
+      "serial_number": "0009",
+      "presidence": "U",
+      "check": "86",
+      "section": "MDC"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2115",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0014",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W5ASP",
+      "serial_number": "0003",
+      "presidence": "B",
+      "check": "60",
+      "section": "STX"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2116",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0015",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W3GLL",
+      "serial_number": "0004",
+      "presidence": "B",
+      "check": "10",
+      "section": "NFL"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2116",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0016",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W5GFI",
+      "serial_number": "0016",
+      "presidence": "A",
+      "check": "63",
+      "section": "OK"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2117",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0017",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NW2K",
+      "serial_number": "0015",
+      "presidence": "M",
+      "check": "40",
+      "section": "WNY"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2117",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0018",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N1MD",
+      "serial_number": "0003",
+      "presidence": "U",
+      "check": "93",
+      "section": "CT"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2118",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0019",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NS6V",
+      "serial_number": "0003",
+      "presidence": "A",
+      "check": "72",
+      "section": "SB"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2119",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0020",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W1KBN",
+      "serial_number": "0008",
+      "presidence": "S",
+      "check": "37",
+      "section": "EMA"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2119",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0021",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W4TTY",
+      "serial_number": "0003",
+      "presidence": "U",
+      "check": "77",
+      "section": "VA"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2120",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0022",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KV8S",
+      "serial_number": "0005",
+      "presidence": "A",
+      "check": "78",
+      "section": "WV"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2120",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0023",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WA7PVE",
+      "serial_number": "0010",
+      "presidence": "Q",
+      "check": "70",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2121",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0024",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W4MY",
+      "serial_number": "0012",
+      "presidence": "U",
+      "check": "76",
+      "section": "NC"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2122",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0025",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AA2FD",
+      "serial_number": "0007",
+      "presidence": "A",
+      "check": "84",
+      "section": "VA"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2123",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0026",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K4GMH",
+      "serial_number": "0005",
+      "presidence": "U",
+      "check": "53",
+      "section": "VA"
+    }
+  },
+  {
+    "frequency": "28585",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2124",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0027",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K3SI",
+      "serial_number": "0009",
+      "presidence": "A",
+      "check": "66",
+      "section": "EPA"
+    }
+  },
+  {
+    "frequency": "28576",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2126",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0028",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WA7LT",
+      "serial_number": "0027",
+      "presidence": "M",
+      "check": "48",
+      "section": "EWA"
+    }
+  },
+  {
+    "frequency": "28572",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2127",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0029",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N9NUQ",
+      "serial_number": "0024",
+      "presidence": "A",
+      "check": "92",
+      "section": "IL"
+    }
+  },
+  {
+    "frequency": "28555",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2129",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0030",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NT5V",
+      "serial_number": "0031",
+      "presidence": "A",
+      "check": "69",
+      "section": "NTX"
+    }
+  },
+  {
+    "frequency": "28551",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2130",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0031",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VA7AAA",
+      "serial_number": "0050",
+      "presidence": "B",
+      "check": "63",
+      "section": "BC"
+    }
+  },
+  {
+    "frequency": "28545",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2132",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0032",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VE3CX",
+      "serial_number": "0055",
+      "presidence": "U",
+      "check": "74",
+      "section": "ONN"
+    }
+  },
+  {
+    "frequency": "28534",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2134",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0033",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N3RR",
+      "serial_number": "0042",
+      "presidence": "U",
+      "check": "62",
+      "section": "MDC"
+    }
+  },
+  {
+    "frequency": "28523",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2135",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0034",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W7ZR",
+      "serial_number": "0059",
+      "presidence": "B",
+      "check": "54",
+      "section": "AZ"
+    }
+  },
+  {
+    "frequency": "28503",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2138",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0035",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N0XR",
+      "serial_number": "0044",
+      "presidence": "U",
+      "check": "87",
+      "section": "IA"
+    }
+  },
+  {
+    "frequency": "28499",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2139",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0036",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K9MU",
+      "serial_number": "0047",
+      "presidence": "A",
+      "check": "99",
+      "section": "WI"
+    }
+  },
+  {
+    "frequency": "28498",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2140",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0037",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N3OC",
+      "serial_number": "0047",
+      "presidence": "M",
+      "check": "73",
+      "section": "MDC"
+    }
+  },
+  {
+    "frequency": "28491",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2141",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0038",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K3WW",
+      "serial_number": "0080",
+      "presidence": "U",
+      "check": "59",
+      "section": "EPA"
+    }
+  },
+  {
+    "frequency": "28468",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2142",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0039",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NA4K",
+      "serial_number": "0057",
+      "presidence": "A",
+      "check": "67",
+      "section": "TN"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2149",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0040",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K1VO",
+      "serial_number": "0012",
+      "presidence": "U",
+      "check": "62",
+      "section": "NH"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2150",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0041",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W0VD",
+      "serial_number": "0023",
+      "presidence": "A",
+      "check": "59",
+      "section": "MO"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2150",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0042",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W6JK",
+      "serial_number": "0027",
+      "presidence": "A",
+      "check": "70",
+      "section": "LAX"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2151",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0043",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N8DP",
+      "serial_number": "0030",
+      "presidence": "B",
+      "check": "72",
+      "section": "MI"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2151",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0044",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KA7EMS",
+      "serial_number": "0009",
+      "presidence": "U",
+      "check": "97",
+      "section": "OR"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2152",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0045",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W2GPS",
+      "serial_number": "0018",
+      "presidence": "U",
+      "check": "67",
+      "section": "MDC"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2152",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0046",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K4FAC",
+      "serial_number": "0003",
+      "presidence": "A",
+      "check": "59",
+      "section": "SFL"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2153",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0047",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N4JF",
+      "serial_number": "0016",
+      "presidence": "Q",
+      "check": "55",
+      "section": "AL"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2154",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0048",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KC0DAS",
+      "serial_number": "0024",
+      "presidence": "A",
+      "check": "97",
+      "section": "SD"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2154",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0049",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N9EAX",
+      "serial_number": "0028",
+      "presidence": "A",
+      "check": "77",
+      "section": "WI"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2155",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0050",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KG6MC",
+      "serial_number": "0016",
+      "presidence": "B",
+      "check": "60",
+      "section": "SC"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2155",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0051",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AB2TC",
+      "serial_number": "0014",
+      "presidence": "A",
+      "check": "68",
+      "section": "WNY"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2156",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0052",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N2PN",
+      "serial_number": "0013",
+      "presidence": "A",
+      "check": "68",
+      "section": "NLI"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2156",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0053",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W1ZFG",
+      "serial_number": "0012",
+      "presidence": "A",
+      "check": "71",
+      "section": "CT"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2157",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0054",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N4KG",
+      "serial_number": "0021",
+      "presidence": "U",
+      "check": "55",
+      "section": "AL"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2157",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0055",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K9GAJ",
+      "serial_number": "0004",
+      "presidence": "A",
+      "check": "56",
+      "section": "NM"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2158",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0056",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KC7H",
+      "serial_number": "0011",
+      "presidence": "A",
+      "check": "04",
+      "section": "EWA"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2158",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0057",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W0HI",
+      "serial_number": "0019",
+      "presidence": "A",
+      "check": "57",
+      "section": "OH"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2159",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0058",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W0MR",
+      "serial_number": "0023",
+      "presidence": "M",
+      "check": "69",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2159",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0059",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N5WNG",
+      "serial_number": "0035",
+      "presidence": "A",
+      "check": "60",
+      "section": "NTX"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2200",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0060",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KC0ZVN",
+      "serial_number": "0008",
+      "presidence": "A",
+      "check": "07",
+      "section": "AZ"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2201",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0061",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KB7KYK",
+      "serial_number": "0009",
+      "presidence": "U",
+      "check": "90",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2201",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0062",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N1GKX",
+      "serial_number": "0032",
+      "presidence": "A",
+      "check": "89",
+      "section": "WMA"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2202",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0063",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K9WIS",
+      "serial_number": "0026",
+      "presidence": "B",
+      "check": "71",
+      "section": "WI"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2203",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0064",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K3BYU",
+      "serial_number": "0014",
+      "presidence": "A",
+      "check": "09",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2203",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0065",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VE7CLX",
+      "serial_number": "0016",
+      "presidence": "A",
+      "check": "12",
+      "section": "BC"
+    }
+  },
+  {
+    "frequency": "28617",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2205",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0066",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WB8TQZ",
+      "serial_number": "0021",
+      "presidence": "A",
+      "check": "75",
+      "section": "MI"
+    }
+  },
+  {
+    "frequency": "28641",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2208",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0067",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KL7AIR",
+      "serial_number": "0106",
+      "presidence": "M",
+      "check": "48",
+      "section": "AK"
+    }
+  },
+  {
+    "frequency": "28588",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2209",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0068",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K8TE",
+      "serial_number": "0084",
+      "presidence": "A",
+      "check": "60",
+      "section": "CO"
+    }
+  },
+  {
+    "frequency": "28314",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2211",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0069",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K7JA",
+      "serial_number": "0148",
+      "presidence": "A",
+      "check": "63",
+      "section": "ORG"
+    }
+  },
+  {
+    "frequency": "28317",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2212",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0070",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VE7CC",
+      "serial_number": "0145",
+      "presidence": "B",
+      "check": "62",
+      "section": "BC"
+    }
+  },
+  {
+    "frequency": "28327",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2214",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0071",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N2BJ",
+      "serial_number": "0116",
+      "presidence": "U",
+      "check": "61",
+      "section": "IL"
+    }
+  },
+  {
+    "frequency": "28388",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2220",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0072",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K0HC",
+      "serial_number": "0145",
+      "presidence": "S",
+      "check": "97",
+      "section": "KS"
+    }
+  },
+  {
+    "frequency": "28425",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2222",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0073",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WB1GQR",
+      "serial_number": "0142",
+      "presidence": "U",
+      "check": "69",
+      "section": "VT"
+    }
+  },
+  {
+    "frequency": "21285",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2228",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0074",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VE5RI",
+      "serial_number": "0171",
+      "presidence": "M",
+      "check": "75",
+      "section": "SK"
+    }
+  },
+  {
+    "frequency": "21215",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2231",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0075",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VE6EX",
+      "serial_number": "0183",
+      "presidence": "U",
+      "check": "58",
+      "section": "AB"
+    }
+  },
+  {
+    "frequency": "28514",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2241",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0076",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WZ8T",
+      "serial_number": "0092",
+      "presidence": "A",
+      "check": "89",
+      "section": "MI"
+    }
+  },
+  {
+    "frequency": "28511",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2243",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0077",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AF1T",
+      "serial_number": "0148",
+      "presidence": "B",
+      "check": "64",
+      "section": "NH"
+    }
+  },
+  {
+    "frequency": "28521",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2244",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0078",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WA7PRC",
+      "serial_number": "0067",
+      "presidence": "A",
+      "check": "70",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28529",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2248",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0079",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KH6CJJ",
+      "serial_number": "0082",
+      "presidence": "A",
+      "check": "57",
+      "section": "PAC"
+    }
+  },
+  {
+    "frequency": "28517",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2251",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0080",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WO9Z",
+      "serial_number": "0074",
+      "presidence": "B",
+      "check": "65",
+      "section": "IN"
+    }
+  },
+  {
+    "frequency": "28493",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2253",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0081",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NW0M",
+      "serial_number": "0123",
+      "presidence": "U",
+      "check": "77",
+      "section": "MO"
+    }
+  },
+  {
+    "frequency": "28490",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2254",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0082",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W9ROG",
+      "serial_number": "0118",
+      "presidence": "A",
+      "check": "96",
+      "section": "WI"
+    }
+  },
+  {
+    "frequency": "28424",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2258",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0083",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K5WA",
+      "serial_number": "0158",
+      "presidence": "B",
+      "check": "65",
+      "section": "NTX"
+    }
+  },
+  {
+    "frequency": "28414",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2301",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0084",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KS5Z",
+      "serial_number": "0152",
+      "presidence": "M",
+      "check": "79",
+      "section": "WTX"
+    }
+  },
+  {
+    "frequency": "28392",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2303",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0085",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N2IC",
+      "serial_number": "0299",
+      "presidence": "B",
+      "check": "68",
+      "section": "NM"
+    }
+  },
+  {
+    "frequency": "28609",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2307",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0086",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AA0FO",
+      "serial_number": "0045",
+      "presidence": "A",
+      "check": "71",
+      "section": "KS"
+    }
+  },
+  {
+    "frequency": "28580",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2309",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0087",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K2PO",
+      "serial_number": "0226",
+      "presidence": "A",
+      "check": "71",
+      "section": "OR"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2311",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0088",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KT4ZB",
+      "serial_number": "0024",
+      "presidence": "U",
+      "check": "96",
+      "section": "GA"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2312",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0089",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KF6I",
+      "serial_number": "0028",
+      "presidence": "U",
+      "check": "74",
+      "section": "ORG"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2312",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0090",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NA6MB",
+      "serial_number": "0026",
+      "presidence": "U",
+      "check": "76",
+      "section": "SDG"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2316",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0091",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K3FIV",
+      "serial_number": "0047",
+      "presidence": "U",
+      "check": "63",
+      "section": "SF"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2317",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0092",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WA0JZK",
+      "serial_number": "0042",
+      "presidence": "U",
+      "check": "64",
+      "section": "MO"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2317",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0093",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W7CAR",
+      "serial_number": "0010",
+      "presidence": "A",
+      "check": "87",
+      "section": "OR"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2318",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0094",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K6GB",
+      "serial_number": "0009",
+      "presidence": "A",
+      "check": "06",
+      "section": "ORG"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2318",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0095",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VE7CNW",
+      "serial_number": "0015",
+      "presidence": "A",
+      "check": "76",
+      "section": "BC"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2319",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0096",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K7LVJ",
+      "serial_number": "0109",
+      "presidence": "B",
+      "check": "60",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2320",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0097",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K4JC",
+      "serial_number": "0034",
+      "presidence": "A",
+      "check": "78",
+      "section": "SFL"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2320",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0098",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AG6AY",
+      "serial_number": "0025",
+      "presidence": "B",
+      "check": "10",
+      "section": "SB"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2321",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0099",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WE6Z",
+      "serial_number": "0131",
+      "presidence": "U",
+      "check": "94",
+      "section": "SV"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2321",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0100",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W7PT",
+      "serial_number": "0041",
+      "presidence": "Q",
+      "check": "60",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2322",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0101",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KK6FUT",
+      "serial_number": "0002",
+      "presidence": "A",
+      "check": "13",
+      "section": "SB"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2324",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0102",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KJ6NJL",
+      "serial_number": "0004",
+      "presidence": "A",
+      "check": "11",
+      "section": "SDG"
+    }
+  },
+  {
+    "frequency": "28532",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2325",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0103",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KI6LSB",
+      "serial_number": "0005",
+      "presidence": "Q",
+      "check": "07",
+      "section": "ORG"
+    }
+  },
+  {
+    "frequency": "21437",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2338",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0104",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WB4OMM",
+      "serial_number": "0076",
+      "presidence": "U",
+      "check": "71",
+      "section": "NFL"
+    }
+  },
+  {
+    "frequency": "21384",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2345",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0105",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WH7Z",
+      "serial_number": "0303",
+      "presidence": "B",
+      "check": "77",
+      "section": "PAC"
+    }
+  },
+  {
+    "frequency": "21382",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2346",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0106",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K3AJ",
+      "serial_number": "0127",
+      "presidence": "M",
+      "check": "67",
+      "section": "MDC"
+    }
+  },
+  {
+    "frequency": "21345",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2349",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0107",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WC6H",
+      "serial_number": "0362",
+      "presidence": "B",
+      "check": "71",
+      "section": "SJV"
+    }
+  },
+  {
+    "frequency": "21251",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2352",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0108",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VE4GV",
+      "serial_number": "0315",
+      "presidence": "U",
+      "check": "72",
+      "section": "MB"
+    }
+  },
+  {
+    "frequency": "21410",
+    "mode": "PH",
+    "date": "2013-11-16",
+    "utc_time": "2357",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0109",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NW6P",
+      "serial_number": "0166",
+      "presidence": "B",
+      "check": "57",
+      "section": "SCV"
+    }
+  },
+  {
+    "frequency": "21416",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0002",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0110",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N6TU",
+      "serial_number": "0145",
+      "presidence": "U",
+      "check": "69",
+      "section": "SCV"
+    }
+  },
+  {
+    "frequency": "21400",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0003",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0111",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K4EU",
+      "serial_number": "0217",
+      "presidence": "B",
+      "check": "64",
+      "section": "VA"
+    }
+  },
+  {
+    "frequency": "21395",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0006",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0112",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WP2Z",
+      "serial_number": "0529",
+      "presidence": "M",
+      "check": "58",
+      "section": "VI"
+    }
+  },
+  {
+    "frequency": "21224",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0011",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0113",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N6JS",
+      "serial_number": "0297",
+      "presidence": "B",
+      "check": "77",
+      "section": "EB"
+    }
+  },
+  {
+    "frequency": "21316",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0020",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0114",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K9DIG",
+      "serial_number": "0292",
+      "presidence": "U",
+      "check": "06",
+      "section": "ND"
+    }
+  },
+  {
+    "frequency": "21392",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0024",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0115",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AC8GX",
+      "serial_number": "0092",
+      "presidence": "B",
+      "check": "10",
+      "section": "OH"
+    }
+  },
+  {
+    "frequency": "21348",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0029",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0116",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NX1P",
+      "serial_number": "0271",
+      "presidence": "B",
+      "check": "66",
+      "section": "OR"
+    }
+  },
+  {
+    "frequency": "14345",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0043",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0117",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K9YC",
+      "serial_number": "0262",
+      "presidence": "U",
+      "check": "55",
+      "section": "SCV"
+    }
+  },
+  {
+    "frequency": "21314",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0057",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0118",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KG6MC",
+      "serial_number": "0059",
+      "presidence": "B",
+      "check": "60",
+      "section": "SC"
+    }
+  },
+  {
+    "frequency": "21314",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0059",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0119",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N7ORM",
+      "serial_number": "0019",
+      "presidence": "A",
+      "check": "08",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "21314",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0100",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0120",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W5GFI",
+      "serial_number": "0118",
+      "presidence": "A",
+      "check": "63",
+      "section": "OK"
+    }
+  },
+  {
+    "frequency": "21314",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0102",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0121",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KD0FW",
+      "serial_number": "0110",
+      "presidence": "U",
+      "check": "78",
+      "section": "MO"
+    }
+  },
+  {
+    "frequency": "21289",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0107",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0122",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WD5R",
+      "serial_number": "0160",
+      "presidence": "B",
+      "check": "85",
+      "section": "AR"
+    }
+  },
+  {
+    "frequency": "21317",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0111",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0123",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AB4EJ",
+      "serial_number": "0093",
+      "presidence": "U",
+      "check": "65",
+      "section": "AL"
+    }
+  },
+  {
+    "frequency": "21333",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0113",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0124",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K0LUZ",
+      "serial_number": "0115",
+      "presidence": "U",
+      "check": "57",
+      "section": "NFL"
+    }
+  },
+  {
+    "frequency": "14278",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0128",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0125",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VY2ZM",
+      "serial_number": "0562",
+      "presidence": "B",
+      "check": "55",
+      "section": "MAR"
+    }
+  },
+  {
+    "frequency": "14347",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0202",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0126",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W6YX",
+      "serial_number": "0402",
+      "presidence": "S",
+      "check": "24",
+      "section": "SCV"
+    }
+  },
+  {
+    "frequency": "14265",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0208",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0127",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W0NO",
+      "serial_number": "0580",
+      "presidence": "M",
+      "check": "99",
+      "section": "KS"
+    }
+  },
+  {
+    "frequency": "14257",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0213",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0128",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W0SD",
+      "serial_number": "0779",
+      "presidence": "M",
+      "check": "62",
+      "section": "SD"
+    }
+  },
+  {
+    "frequency": "14304",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0218",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0129",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W1AW",
+      "serial_number": "0364",
+      "presidence": "A",
+      "check": "38",
+      "section": "CT"
+    }
+  },
+  {
+    "frequency": "14253",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0226",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0130",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W7RN",
+      "serial_number": "0599",
+      "presidence": "U",
+      "check": "59",
+      "section": "NV"
+    }
+  },
+  {
+    "frequency": "14256",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0232",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0131",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W7WA",
+      "serial_number": "0739",
+      "presidence": "B",
+      "check": "70",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "14185",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0259",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0132",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AA9A",
+      "serial_number": "0583",
+      "presidence": "B",
+      "check": "69",
+      "section": "WI"
+    }
+  },
+  {
+    "frequency": "14261",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0302",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0133",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W6SX",
+      "serial_number": "0241",
+      "presidence": "B",
+      "check": "56",
+      "section": "SJV"
+    }
+  },
+  {
+    "frequency": "14263",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0304",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0134",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W7GKF",
+      "serial_number": "0470",
+      "presidence": "B",
+      "check": "52",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "14246",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0312",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0135",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K7DNH",
+      "serial_number": "0096",
+      "presidence": "A",
+      "check": "08",
+      "section": "NV"
+    }
+  },
+  {
+    "frequency": "14268",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0314",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0136",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K0AU",
+      "serial_number": "0141",
+      "presidence": "A",
+      "check": "72",
+      "section": "SCV"
+    }
+  },
+  {
+    "frequency": "14245",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0320",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0137",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AE6Y",
+      "serial_number": "0501",
+      "presidence": "B",
+      "check": "58",
+      "section": "SCV"
+    }
+  },
+  {
+    "frequency": "07160",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "0622",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0138",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KL7RA",
+      "serial_number": "0945",
+      "presidence": "M",
+      "check": "73",
+      "section": "AK"
+    }
+  },
+  {
+    "frequency": "28550",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1808",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0139",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VE2HIT",
+      "serial_number": "0551",
+      "presidence": "A",
+      "check": "90",
+      "section": "QC"
+    }
+  },
+  {
+    "frequency": "28463",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1820",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0140",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VA3TIC",
+      "serial_number": "0255",
+      "presidence": "A",
+      "check": "11",
+      "section": "ONE"
+    }
+  },
+  {
+    "frequency": "28322",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1822",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0141",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WA8ZBT",
+      "serial_number": "0352",
+      "presidence": "A",
+      "check": "67",
+      "section": "WTX"
+    }
+  },
+  {
+    "frequency": "21206",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1834",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0142",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K7CF",
+      "serial_number": "0933",
+      "presidence": "B",
+      "check": "60",
+      "section": "ID"
+    }
+  },
+  {
+    "frequency": "21219",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1835",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0143",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NW8U",
+      "serial_number": "0848",
+      "presidence": "M",
+      "check": "69",
+      "section": "WV"
+    }
+  },
+  {
+    "frequency": "28362",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1851",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0144",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AE1P",
+      "serial_number": "0607",
+      "presidence": "A",
+      "check": "03",
+      "section": "NH"
+    }
+  },
+  {
+    "frequency": "28364",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1851",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0145",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K4AB",
+      "serial_number": "0038",
+      "presidence": "B",
+      "check": "73",
+      "section": "AL"
+    }
+  },
+  {
+    "frequency": "28370",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1900",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0146",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VA3ZLT",
+      "serial_number": "0099",
+      "presidence": "A",
+      "check": "11",
+      "section": "GTA"
+    }
+  },
+  {
+    "frequency": "28392",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1904",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0147",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N9RV",
+      "serial_number": "1199",
+      "presidence": "B",
+      "check": "67",
+      "section": "MT"
+    }
+  },
+  {
+    "frequency": "21209",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1910",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0148",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N3MK",
+      "serial_number": "0516",
+      "presidence": "U",
+      "check": "76",
+      "section": "VA"
+    }
+  },
+  {
+    "frequency": "21425",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1917",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0149",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N0BUI",
+      "serial_number": "0350",
+      "presidence": "U",
+      "check": "63",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "21434",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1917",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0150",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NX9T",
+      "serial_number": "0541",
+      "presidence": "B",
+      "check": "85",
+      "section": "NC"
+    }
+  },
+  {
+    "frequency": "21248",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1920",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0151",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W3IDT",
+      "serial_number": "1171",
+      "presidence": "U",
+      "check": "57",
+      "section": "MDC"
+    }
+  },
+  {
+    "frequency": "28326",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1925",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0152",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NA5NN",
+      "serial_number": "0644",
+      "presidence": "M",
+      "check": "10",
+      "section": "MS"
+    }
+  },
+  {
+    "frequency": "28337",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1927",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0153",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N0KK",
+      "serial_number": "1241",
+      "presidence": "U",
+      "check": "77",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28340",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1927",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0154",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W2VQ",
+      "serial_number": "0861",
+      "presidence": "U",
+      "check": "73",
+      "section": "NNJ"
+    }
+  },
+  {
+    "frequency": "28347",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1929",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0155",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N4KH",
+      "serial_number": "0379",
+      "presidence": "U",
+      "check": "74",
+      "section": "AL"
+    }
+  },
+  {
+    "frequency": "28374",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1930",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0156",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K6LL",
+      "serial_number": "1467",
+      "presidence": "U",
+      "check": "59",
+      "section": "AZ"
+    }
+  },
+  {
+    "frequency": "28463",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1936",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0157",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K1LZ",
+      "serial_number": "0075",
+      "presidence": "B",
+      "check": "69",
+      "section": "EMA"
+    }
+  },
+  {
+    "frequency": "28465",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1937",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0158",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KK5LO",
+      "serial_number": "0188",
+      "presidence": "U",
+      "check": "92",
+      "section": "STX"
+    }
+  },
+  {
+    "frequency": "28481",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1939",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0159",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K5RT",
+      "serial_number": "1410",
+      "presidence": "U",
+      "check": "72",
+      "section": "NTX"
+    }
+  },
+  {
+    "frequency": "28541",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1942",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0160",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K9BGL",
+      "serial_number": "1080",
+      "presidence": "B",
+      "check": "55",
+      "section": "IL"
+    }
+  },
+  {
+    "frequency": "28549",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1943",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0161",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K1SD",
+      "serial_number": "0471",
+      "presidence": "A",
+      "check": "92",
+      "section": "RI"
+    }
+  },
+  {
+    "frequency": "28557",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1945",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0162",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W1FYO",
+      "serial_number": "0010",
+      "presidence": "A",
+      "check": "57",
+      "section": "VT"
+    }
+  },
+  {
+    "frequency": "28557",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1946",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0163",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KA7RRA",
+      "serial_number": "0100",
+      "presidence": "A",
+      "check": "88",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28557",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1948",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0164",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VE3SGB",
+      "serial_number": "0325",
+      "presidence": "M",
+      "check": "69",
+      "section": "ONS"
+    }
+  },
+  {
+    "frequency": "21266",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1950",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0165",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WY7SS",
+      "serial_number": "0971",
+      "presidence": "B",
+      "check": "09",
+      "section": "WY"
+    }
+  },
+  {
+    "frequency": "21393",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1952",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0166",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NR3X",
+      "serial_number": "0442",
+      "presidence": "B",
+      "check": "89",
+      "section": "NC"
+    }
+  },
+  {
+    "frequency": "21315",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "1957",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0167",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K3ZJ",
+      "serial_number": "1036",
+      "presidence": "B",
+      "check": "65",
+      "section": "WV"
+    }
+  },
+  {
+    "frequency": "28391",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2010",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0168",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N1RR",
+      "serial_number": "1642",
+      "presidence": "M",
+      "check": "77",
+      "section": "WMA"
+    }
+  },
+  {
+    "frequency": "28557",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2016",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0169",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W9SE",
+      "serial_number": "0094",
+      "presidence": "B",
+      "check": "52",
+      "section": "IL"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2021",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0170",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NR0T",
+      "serial_number": "0029",
+      "presidence": "A",
+      "check": "69",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2021",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0171",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K0UK",
+      "serial_number": "0866",
+      "presidence": "U",
+      "check": "60",
+      "section": "CO"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2022",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0172",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KF6ESD",
+      "serial_number": "0050",
+      "presidence": "B",
+      "check": "96",
+      "section": "LAX"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2022",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0173",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KD0QEA",
+      "serial_number": "0187",
+      "presidence": "A",
+      "check": "11",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2023",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0174",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K6NR",
+      "serial_number": "0251",
+      "presidence": "U",
+      "check": "69",
+      "section": "ORG"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2023",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0175",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WE9V",
+      "serial_number": "1589",
+      "presidence": "U",
+      "check": "87",
+      "section": "WI"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2025",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0176",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WB2KXC",
+      "serial_number": "0062",
+      "presidence": "Q",
+      "check": "63",
+      "section": "LAX"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2025",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0177",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KC0DAS",
+      "serial_number": "0067",
+      "presidence": "A",
+      "check": "97",
+      "section": "SD"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2026",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0178",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N7WY",
+      "serial_number": "0332",
+      "presidence": "A",
+      "check": "61",
+      "section": "MO"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2026",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0179",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K1ZZI",
+      "serial_number": "0778",
+      "presidence": "U",
+      "check": "62",
+      "section": "GA"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2027",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0180",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WQ5O",
+      "serial_number": "0096",
+      "presidence": "B",
+      "check": "78",
+      "section": "OK"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2027",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0181",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WM8W",
+      "serial_number": "0089",
+      "presidence": "A",
+      "check": "79",
+      "section": "OH"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2028",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0182",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KK7KTG",
+      "serial_number": "0133",
+      "presidence": "B",
+      "check": "58",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2028",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0183",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K5LLA",
+      "serial_number": "0879",
+      "presidence": "U",
+      "check": "58",
+      "section": "STX"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2029",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0184",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AB0RE",
+      "serial_number": "0338",
+      "presidence": "A",
+      "check": "98",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2029",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0185",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WN1G",
+      "serial_number": "0379",
+      "presidence": "M",
+      "check": "89",
+      "section": "AL"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2030",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0186",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KA8G",
+      "serial_number": "0050",
+      "presidence": "A",
+      "check": "72",
+      "section": "OH"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2031",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0187",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K0CQH",
+      "serial_number": "0006",
+      "presidence": "Q",
+      "check": "60",
+      "section": "IA"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2031",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0188",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W6SAN",
+      "serial_number": "0090",
+      "presidence": "A",
+      "check": "70",
+      "section": "SDG"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2033",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0189",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VE7IGQ",
+      "serial_number": "0001",
+      "presidence": "A",
+      "check": "92",
+      "section": "BC"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2033",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0190",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WB3JKQ",
+      "serial_number": "0077",
+      "presidence": "A",
+      "check": "65",
+      "section": "TN"
+    }
+  },
+  {
+    "frequency": "28421",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2034",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0191",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NX6T",
+      "serial_number": "1664",
+      "presidence": "M",
+      "check": "00",
+      "section": "SDG"
+    }
+  },
+  {
+    "frequency": "21232",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2038",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0192",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W2GDJ",
+      "serial_number": "0984",
+      "presidence": "U",
+      "check": "66",
+      "section": "ENY"
+    }
+  },
+  {
+    "frequency": "21241",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2039",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0193",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KM2O",
+      "serial_number": "0776",
+      "presidence": "B",
+      "check": "98",
+      "section": "ENY"
+    }
+  },
+  {
+    "frequency": "21251",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2041",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0194",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WC2W",
+      "serial_number": "1003",
+      "presidence": "B",
+      "check": "71",
+      "section": "ENY"
+    }
+  },
+  {
+    "frequency": "21297",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2045",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0195",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K0HB",
+      "serial_number": "0978",
+      "presidence": "B",
+      "check": "63",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2101",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0196",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N1CC",
+      "serial_number": "0688",
+      "presidence": "A",
+      "check": "66",
+      "section": "NTX"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2102",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0197",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KF7QNL",
+      "serial_number": "0115",
+      "presidence": "B",
+      "check": "11",
+      "section": "EWA"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2103",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0198",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W5IV",
+      "serial_number": "0154",
+      "presidence": "A",
+      "check": "76",
+      "section": "NM"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2104",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0199",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W6CYK",
+      "serial_number": "0003",
+      "presidence": "A",
+      "check": "46",
+      "section": "ORG"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2104",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0200",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KD5LNO",
+      "serial_number": "0684",
+      "presidence": "A",
+      "check": "00",
+      "section": "LA"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2105",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0201",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K4OV",
+      "serial_number": "1447",
+      "presidence": "M",
+      "check": "78",
+      "section": "NC"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2105",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0202",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K6MUG",
+      "serial_number": "0121",
+      "presidence": "A",
+      "check": "05",
+      "section": "LAX"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2106",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0203",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N0LJD",
+      "serial_number": "0113",
+      "presidence": "A",
+      "check": "89",
+      "section": "NE"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2107",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0204",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K7XH",
+      "serial_number": "0032",
+      "presidence": "A",
+      "check": "77",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2109",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0205",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WD7K",
+      "serial_number": "0245",
+      "presidence": "B",
+      "check": "68",
+      "section": "EWA"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2110",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0206",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AA6WH",
+      "serial_number": "0089",
+      "presidence": "B",
+      "check": "11",
+      "section": "SB"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2110",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0207",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W5GG",
+      "serial_number": "0019",
+      "presidence": "A",
+      "check": "58",
+      "section": "LA"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2111",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0208",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N1XIH/7",
+      "serial_number": "0140",
+      "presidence": "Q",
+      "check": "96",
+      "section": "UT"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2113",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0209",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KI7PY",
+      "serial_number": "0001",
+      "presidence": "A",
+      "check": "91",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2114",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0210",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KJ4NUV",
+      "serial_number": "0009",
+      "presidence": "A",
+      "check": "09",
+      "section": "SFL"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2115",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0211",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WM4DE",
+      "serial_number": "0134",
+      "presidence": "A",
+      "check": "11",
+      "section": "NFL"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2116",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0212",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KJ6WDV",
+      "serial_number": "0035",
+      "presidence": "A",
+      "check": "12",
+      "section": "SDG"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2117",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0213",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KR7DX",
+      "serial_number": "0100",
+      "presidence": "A",
+      "check": "82",
+      "section": "AZ"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2117",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0214",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KF7FK",
+      "serial_number": "0021",
+      "presidence": "A",
+      "check": "09",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2119",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0215",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N0AJN",
+      "serial_number": "0033",
+      "presidence": "U",
+      "check": "10",
+      "section": "CO"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2120",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0216",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N3ZRR",
+      "serial_number": "0007",
+      "presidence": "A",
+      "check": "07",
+      "section": "WTX"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2131",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0217",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WR5J",
+      "serial_number": "0343",
+      "presidence": "A",
+      "check": "81",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2131",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0218",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N1UW",
+      "serial_number": "0003",
+      "presidence": "B",
+      "check": "66",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2133",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0219",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NR5M",
+      "serial_number": "1675",
+      "presidence": "B",
+      "check": "66",
+      "section": "STX"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2134",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0220",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N0HJZ",
+      "serial_number": "0526",
+      "presidence": "M",
+      "check": "88",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2135",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0221",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KJ5RM",
+      "serial_number": "0372",
+      "presidence": "Q",
+      "check": "91",
+      "section": "NTX"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2135",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0222",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WA0CSL",
+      "serial_number": "0273",
+      "presidence": "M",
+      "check": "62",
+      "section": "ND"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2136",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0223",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AF5P",
+      "serial_number": "0120",
+      "presidence": "B",
+      "check": "88",
+      "section": "LA"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2136",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0224",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KC9TVG",
+      "serial_number": "0025",
+      "presidence": "A",
+      "check": "11",
+      "section": "WI"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2137",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0225",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KX1X",
+      "serial_number": "0481",
+      "presidence": "A",
+      "check": "97",
+      "section": "WMA"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2138",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0226",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W0PE",
+      "serial_number": "0005",
+      "presidence": "A",
+      "check": "73",
+      "section": "ORG"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2138",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0227",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K0JJR",
+      "serial_number": "0278",
+      "presidence": "B",
+      "check": "02",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2139",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0228",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KD7YDL",
+      "serial_number": "0080",
+      "presidence": "A",
+      "check": "03",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28396",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2141",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0229",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VE8EV",
+      "serial_number": "1239",
+      "presidence": "U",
+      "check": "93",
+      "section": "NT"
+    }
+  },
+  {
+    "frequency": "28331",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2143",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0230",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K1TR",
+      "serial_number": "0144",
+      "presidence": "A",
+      "check": "71",
+      "section": "NH"
+    }
+  },
+  {
+    "frequency": "21213",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2145",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0231",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W4NF",
+      "serial_number": "1127",
+      "presidence": "U",
+      "check": "75",
+      "section": "VA"
+    }
+  },
+  {
+    "frequency": "21408",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2150",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0232",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K1KD",
+      "serial_number": "1525",
+      "presidence": "U",
+      "check": "86",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "21319",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2155",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0233",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K7RI",
+      "serial_number": "1348",
+      "presidence": "B",
+      "check": "62",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "21301",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2157",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0234",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W4LT",
+      "serial_number": "1399",
+      "presidence": "A",
+      "check": "76",
+      "section": "WCF"
+    }
+  },
+  {
+    "frequency": "21281",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2159",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0235",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W4RM",
+      "serial_number": "1266",
+      "presidence": "B",
+      "check": "76",
+      "section": "VA"
+    }
+  },
+  {
+    "frequency": "28327",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2202",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0236",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W0NFS",
+      "serial_number": "0109",
+      "presidence": "A",
+      "check": "61",
+      "section": "MO"
+    }
+  },
+  {
+    "frequency": "28327",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2203",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0237",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KF7NRW",
+      "serial_number": "0093",
+      "presidence": "B",
+      "check": "11",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28327",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2203",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0238",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N5ZC",
+      "serial_number": "1309",
+      "presidence": "U",
+      "check": "79",
+      "section": "WTX"
+    }
+  },
+  {
+    "frequency": "28327",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2204",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0239",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WB7BBQ",
+      "serial_number": "0190",
+      "presidence": "B",
+      "check": "75",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28327",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2205",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0240",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KD0B",
+      "serial_number": "0074",
+      "presidence": "A",
+      "check": "75",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2210",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0241",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KW4B",
+      "serial_number": "0087",
+      "presidence": "U",
+      "check": "78",
+      "section": "GA"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2212",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0242",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K0RGR",
+      "serial_number": "0204",
+      "presidence": "Q",
+      "check": "65",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2213",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0243",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AL1VE",
+      "serial_number": "0188",
+      "presidence": "A",
+      "check": "64",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2213",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0244",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W9MSL",
+      "serial_number": "0038",
+      "presidence": "A",
+      "check": "57",
+      "section": "IL"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2214",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0245",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NF8M",
+      "serial_number": "0060",
+      "presidence": "A",
+      "check": "68",
+      "section": "MI"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2215",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0246",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K4AVF",
+      "serial_number": "0020",
+      "presidence": "B",
+      "check": "54",
+      "section": "VA"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2216",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0247",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KB0QGT",
+      "serial_number": "0572",
+      "presidence": "A",
+      "check": "05",
+      "section": "KS"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2217",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0248",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WA6MM",
+      "serial_number": "0141",
+      "presidence": "B",
+      "check": "70",
+      "section": "CO"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2219",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0249",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KC9NSA",
+      "serial_number": "0018",
+      "presidence": "A",
+      "check": "05",
+      "section": "IL"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2220",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0250",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N6EE",
+      "serial_number": "0676",
+      "presidence": "U",
+      "check": "55",
+      "section": "SJV"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2221",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0251",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N2NC",
+      "serial_number": "0704",
+      "presidence": "B",
+      "check": "79",
+      "section": "NNJ"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2221",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0252",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WB0M",
+      "serial_number": "0639",
+      "presidence": "U",
+      "check": "72",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2222",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0253",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K4AMQ89",
+      "serial_number": "0187",
+      "presidence": "A",
+      "check": "11",
+      "section": "TN"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2223",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0254",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KE7LWW",
+      "serial_number": "0124",
+      "presidence": "B",
+      "check": "07",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2223",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0255",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N3XF",
+      "serial_number": "0201",
+      "presidence": "B",
+      "check": "65",
+      "section": "WPA"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2224",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0256",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KA0ZPP",
+      "serial_number": "0230",
+      "presidence": "A",
+      "check": "87",
+      "section": "NM"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2224",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0257",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N1GKX",
+      "serial_number": "0266",
+      "presidence": "A",
+      "check": "89",
+      "section": "WMA"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2225",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0258",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KB8ESY",
+      "serial_number": "0063",
+      "presidence": "A",
+      "check": "88",
+      "section": "WCF"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2226",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0259",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K0KX",
+      "serial_number": "0161",
+      "presidence": "U",
+      "check": "70",
+      "section": "MN"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2226",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0260",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WA8RQU",
+      "serial_number": "0117",
+      "presidence": "A",
+      "check": "65",
+      "section": "MI"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2227",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0261",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KC8YVP",
+      "serial_number": "0130",
+      "presidence": "B",
+      "check": "03",
+      "section": "OH"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2227",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0262",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KG5RJ",
+      "serial_number": "0115",
+      "presidence": "A",
+      "check": "77",
+      "section": "NTX"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2228",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0263",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KD8CJ",
+      "serial_number": "0007",
+      "presidence": "B",
+      "check": "08",
+      "section": "OH"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2229",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0264",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W9GD",
+      "serial_number": "0202",
+      "presidence": "A",
+      "check": "57",
+      "section": "IL"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2230",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0265",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N5UWY",
+      "serial_number": "0247",
+      "presidence": "A",
+      "check": "91",
+      "section": "OK"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2231",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0266",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W7OM",
+      "serial_number": "0369",
+      "presidence": "U",
+      "check": "49",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2232",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0267",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KB7IUV",
+      "serial_number": "0009",
+      "presidence": "A",
+      "check": "81",
+      "section": "AZ"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2233",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0268",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K0DEQ",
+      "serial_number": "0686",
+      "presidence": "B",
+      "check": "55",
+      "section": "MO"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2233",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0269",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K0VIZ",
+      "serial_number": "0045",
+      "presidence": "A",
+      "check": "59",
+      "section": "OR"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2235",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0270",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AA8JL",
+      "serial_number": "0273",
+      "presidence": "A",
+      "check": "92",
+      "section": "MI"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2235",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0271",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N6WIN",
+      "serial_number": "0238",
+      "presidence": "U",
+      "check": "89",
+      "section": "ORG"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2236",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0272",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W0NZG",
+      "serial_number": "0011",
+      "presidence": "A",
+      "check": "59",
+      "section": "MO"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2237",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0273",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N5EE",
+      "serial_number": "0284",
+      "presidence": "Q",
+      "check": "71",
+      "section": "AR"
+    }
+  },
+  {
+    "frequency": "28328",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2238",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0274",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WB5JC",
+      "serial_number": "0238",
+      "presidence": "U",
+      "check": "09",
+      "section": "NTX"
+    }
+  },
+  {
+    "frequency": "21209",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2241",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0275",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K1JB",
+      "serial_number": "0477",
+      "presidence": "B",
+      "check": "54",
+      "section": "ME"
+    }
+  },
+  {
+    "frequency": "28481",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2249",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0276",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KL2HD",
+      "serial_number": "0655",
+      "presidence": "U",
+      "check": "07",
+      "section": "AK"
+    }
+  },
+  {
+    "frequency": "28344",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2254",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0277",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K0AE",
+      "serial_number": "0230",
+      "presidence": "A",
+      "check": "65",
+      "section": "CO"
+    }
+  },
+  {
+    "frequency": "28344",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2255",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0278",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KC0FCL",
+      "serial_number": "0089",
+      "presidence": "A",
+      "check": "97",
+      "section": "KS"
+    }
+  },
+  {
+    "frequency": "28344",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2256",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0279",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NN7SS",
+      "serial_number": "0535",
+      "presidence": "Q",
+      "check": "05",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28344",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2257",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0280",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K9QJS",
+      "serial_number": "0123",
+      "presidence": "B",
+      "check": "11",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "21223",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2301",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0281",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W1SRD",
+      "serial_number": "1441",
+      "presidence": "U",
+      "check": "74",
+      "section": "SV"
+    }
+  },
+  {
+    "frequency": "21293",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2305",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0282",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WA6ZTY",
+      "serial_number": "0631",
+      "presidence": "B",
+      "check": "61",
+      "section": "SJV"
+    }
+  },
+  {
+    "frequency": "21258",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2307",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0283",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "ND4Y",
+      "serial_number": "0530",
+      "presidence": "A",
+      "check": "78",
+      "section": "KY"
+    }
+  },
+  {
+    "frequency": "21216",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2309",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0284",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N3QE",
+      "serial_number": "0760",
+      "presidence": "M",
+      "check": "78",
+      "section": "MDC"
+    }
+  },
+  {
+    "frequency": "21320",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2318",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0285",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W4UAL",
+      "serial_number": "0393",
+      "presidence": "S",
+      "check": "62",
+      "section": "AL"
+    }
+  },
+  {
+    "frequency": "28409",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2326",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0286",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K7RL",
+      "serial_number": "1807",
+      "presidence": "B",
+      "check": "84",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28394",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2329",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0287",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W7ZZ",
+      "serial_number": "0488",
+      "presidence": "A",
+      "check": "64",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28394",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2329",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0288",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K5KJ",
+      "serial_number": "0109",
+      "presidence": "Q",
+      "check": "66",
+      "section": "NTX"
+    }
+  },
+  {
+    "frequency": "28394",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2332",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0289",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WA0RKQ",
+      "serial_number": "0193",
+      "presidence": "A",
+      "check": "67",
+      "section": "KS"
+    }
+  },
+  {
+    "frequency": "28394",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2333",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0290",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KC7IEC",
+      "serial_number": "0017",
+      "presidence": "A",
+      "check": "94",
+      "section": "EWA"
+    }
+  },
+  {
+    "frequency": "28394",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2334",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0291",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K5LAD",
+      "serial_number": "0309",
+      "presidence": "B",
+      "check": "57",
+      "section": "OK"
+    }
+  },
+  {
+    "frequency": "28394",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2336",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0292",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AE7QM",
+      "serial_number": "0025",
+      "presidence": "A",
+      "check": "02",
+      "section": "OR"
+    }
+  },
+  {
+    "frequency": "28394",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2337",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0293",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W7MCM",
+      "serial_number": "0121",
+      "presidence": "U",
+      "check": "10",
+      "section": "EWA"
+    }
+  },
+  {
+    "frequency": "28394",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2337",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0294",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N7EPD",
+      "serial_number": "0003",
+      "presidence": "B",
+      "check": "78",
+      "section": "WWA"
+    }
+  },
+  {
+    "frequency": "28394",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2338",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0295",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K7HP",
+      "serial_number": "0125",
+      "presidence": "B",
+      "check": "51",
+      "section": "AZ"
+    }
+  },
+  {
+    "frequency": "28394",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2338",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0296",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "WV0BEN",
+      "serial_number": "0006",
+      "presidence": "B",
+      "check": "12",
+      "section": "CO"
+    }
+  },
+  {
+    "frequency": "28394",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2340",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0297",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "AF5JG",
+      "serial_number": "0049",
+      "presidence": "A",
+      "check": "12",
+      "section": "LA"
+    }
+  },
+  {
+    "frequency": "28394",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2342",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0298",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KC0PRJ",
+      "serial_number": "0005",
+      "presidence": "A",
+      "check": "01",
+      "section": "CO"
+    }
+  },
+  {
+    "frequency": "28394",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2342",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0299",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N3MRA",
+      "serial_number": "0068",
+      "presidence": "A",
+      "check": "92",
+      "section": "NM"
+    }
+  },
+  {
+    "frequency": "14290",
+    "mode": "PH",
+    "date": "2013-11-17",
+    "utc_time": "2358",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0300",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W1QK",
+      "serial_number": "0727",
+      "presidence": "M",
+      "check": "73",
+      "section": "CT"
+    }
+  },
+  {
+    "frequency": "14346",
+    "mode": "PH",
+    "date": "2013-11-18",
+    "utc_time": "0007",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0301",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NY3A",
+      "serial_number": "0834",
+      "presidence": "U",
+      "check": "73",
+      "section": "EPA"
+    }
+  },
+  {
+    "frequency": "14344",
+    "mode": "PH",
+    "date": "2013-11-18",
+    "utc_time": "0007",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0302",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K4JPD",
+      "serial_number": "1631",
+      "presidence": "B",
+      "check": "59",
+      "section": "GA"
+    }
+  },
+  {
+    "frequency": "14297",
+    "mode": "PH",
+    "date": "2013-11-18",
+    "utc_time": "0011",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0303",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "N3RC",
+      "serial_number": "0614",
+      "presidence": "U",
+      "check": "57",
+      "section": "MT"
+    }
+  },
+  {
+    "frequency": "14165",
+    "mode": "PH",
+    "date": "2013-11-18",
+    "utc_time": "0036",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0304",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "KC4HW",
+      "serial_number": "0831",
+      "presidence": "B",
+      "check": "78",
+      "section": "AL"
+    }
+  },
+  {
+    "frequency": "14172",
+    "mode": "PH",
+    "date": "2013-11-18",
+    "utc_time": "0037",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0305",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "K4TD",
+      "serial_number": "0489",
+      "presidence": "U",
+      "check": "69",
+      "section": "AL"
+    }
+  },
+  {
+    "frequency": "14198",
+    "mode": "PH",
+    "date": "2013-11-18",
+    "utc_time": "0154",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0306",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "NU1O",
+      "serial_number": "0162",
+      "presidence": "U",
+      "check": "88",
+      "section": "WMA"
+    }
+  },
+  {
+    "frequency": "14164",
+    "mode": "PH",
+    "date": "2013-11-18",
+    "utc_time": "0158",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0307",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "W4MR",
+      "serial_number": "1664",
+      "presidence": "U",
+      "check": "76",
+      "section": "NC"
+    }
+  },
+  {
+    "frequency": "14247",
+    "mode": "PH",
+    "date": "2013-11-18",
+    "utc_time": "0232",
+    "operator": {
+      "callsign": "WL7BDO",
+      "serial_number": "0308",
+      "presidence": "U",
+      "check": "74",
+      "section": "AK"
+    },
+    "contact": {
+      "callsign": "VE7CKZ",
+      "serial_number": "0142",
+      "presidence": "A",
+      "check": "90",
+      "section": "BC"
+    }
+  }
+]
+[
+  {
+    "name": "START-OF-LOG",
+    "value": " 3.0"
+  },
+  {
+    "name": "LOCATION",
+    "value": " AK"
+  },
+  {
+    "name": "CALLSIGN",
+    "value": " WL7BDO"
+  },
+  {
+    "name": "CLUB",
+    "value": " None"
+  },
+  {
+    "name": "CONTEST",
+    "value": " ARRL-SS-SSB"
+  },
+  {
+    "name": "CATEGORY-OPERATOR",
+    "value": " SINGLE-OP"
+  },
+  {
+    "name": "CATEGORY-ASSISTED",
+    "value": " ASSISTED"
+  },
+  {
+    "name": "CATEGORY-BAND",
+    "value": " ALL"
+  },
+  {
+    "name": "CATEGORY-MODE",
+    "value": " SSB"
+  },
+  {
+    "name": "CATEGORY-POWER",
+    "value": " LOW"
+  },
+  {
+    "name": "CATEGORY-STATION",
+    "value": " FIXED"
+  },
+  {
+    "name": "CATEGORY-TRANSMITTER",
+    "value": " ONE"
+  },
+  {
+    "name": "CLAIMED-SCORE",
+    "value": " 48032"
+  },
+  {
+    "name": "OPERATORS",
+    "value": " WL7BDO"
+  },
+  {
+    "name": "OFFTIME",
+    "value": ""
+  },
+  {
+    "name": "SOAPBOX",
+    "value": " Single Operator Unlimited Low Power"
+  },
+  {
+    "name": "NAME",
+    "value": " Carl Horn"
+  },
+  {
+    "name": "ADDRESS",
+    "value": " 707 Market St."
+  },
+  {
+    "name": "ADDRESS",
+    "value": " PO Box 69"
+  },
+  {
+    "name": "ADDRESS-CITY",
+    "value": " Nenana"
+  },
+  {
+    "name": "ADDRESS-STATE-PROVINCE",
+    "value": " AK"
+  },
+  {
+    "name": "ADDRESS-POSTALCODE",
+    "value": " 99760"
+  },
+  {
+    "name": "ADDRESS-COUNTRY",
+    "value": " USA-Alaska"
+  },
+  {
+    "name": "CREATED-BY",
+    "value": " N1MM Logger V13.9.1"
+  }
+]
